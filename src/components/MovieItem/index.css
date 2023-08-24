@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.thumbnail-img{
+    width: 90%;
+}
+.popup-content{
+    /* width: 600px; */
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 25px;
+    padding-top: 8px;
+}
+.close-btn{
+    border-width: 0;
+    background-color: transparent;
+    margin-bottom: 5px;
+    border-style: none;
+    cursor: pointer;
+    align-self: flex-end;
+    margin-left: 10px;
+}
+
+.modal-container{
+    display: flex;
+    flex-direction: column;
+}
